@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **2nd year student in RCC Institute of Information Technology**
 
-- 🌱 I’m currently learning **Backend, Android**
+- 🌱 I’m currently learning **Machine Learning**
 
 - ⚡ Fun fact **I think I have good sense of humor**
 
