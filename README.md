@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer and Programmer</h3>
 
 
-- 🔭 I’m currently **2nd year student in RCC Institute of Information Technology**
+- 🔭 I’m currently **3rd year student in RCC Institute of Information Technology**
 
 - 🌱 I’m currently learning **Machine Learning**
 
